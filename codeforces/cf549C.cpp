@@ -25,9 +25,9 @@ int main()
             }
     }
     if(!check)
-        cout<<"-1"<<endl;
+        cout<<"-1\n";
     else
-        cout<<endl;
+        cout<<"\n";
 
 
     return 0;
